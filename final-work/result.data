@@ -1,0 +1,455 @@
+Noise rate 0.0
+Base Split: 0.1
+MAE - 0.8924756097014902
+RMSE - 1.1426934973903577
+Coverage - 0.8935456272708081
+Recall - 0.3741304304244101
+Precision - 0.6950465549348231
+F1-Score - 0.48642660723827397
+--------------------------------------------------
+Base Split: 0.2
+MAE - 0.8316043271692253
+RMSE - 1.0538318061789815
+Coverage - 0.983475206559918
+Recall - 0.32754477442756746
+Precision - 0.7537955861637189
+F1-Score - 0.45665881757984733
+--------------------------------------------------
+Base Split: 0.3
+MAE - 0.8095663983900494
+RMSE - 1.0217546817928835
+Coverage - 0.9910572706104198
+Recall - 0.33106207252548714
+Precision - 0.778857246948813
+F1-Score - 0.46462853624080847
+--------------------------------------------------
+Base Split: 0.4
+MAE - 0.7996743308937568
+RMSE - 1.009163580080844
+Coverage - 0.9961500641655973
+Recall - 0.3242911096457047
+Precision - 0.7989218726923645
+F1-Score - 0.4613252601057479
+--------------------------------------------------
+Base Split: 0.5
+MAE - 0.7908628077060897
+RMSE - 0.9995293311999859
+Coverage - 0.996380072398552
+Recall - 0.3356297792526331
+Precision - 0.7980958915858993
+F1-Score - 0.4725389127288424
+--------------------------------------------------
+Base Split: 0.6
+MAE - 0.7875330659984504
+RMSE - 0.9959108743594245
+Coverage - 0.9980500487487812
+Recall - 0.3534967393748595
+Precision - 0.8040098199672667
+F1-Score - 0.49108119084064855
+--------------------------------------------------
+Base Split: 0.7
+MAE - 0.7721394368502998
+RMSE - 0.9766603872423942
+Coverage - 0.9978667377754075
+Recall - 0.35620194313643677
+Precision - 0.8168398031711318
+F1-Score - 0.4960776989166978
+--------------------------------------------------
+Base Split: 0.8
+MAE - 0.7806971569885174
+RMSE - 0.9856460333641437
+Coverage - 0.9983500824958752
+Recall - 0.3603530577321445
+Precision - 0.8203813819971294
+F1-Score - 0.5007509386733416
+--------------------------------------------------
+Base Split: 0.9
+MAE - 0.7692970546175036
+RMSE - 0.9721722946960591
+Coverage - 0.9987001299870013
+Recall - 0.36471230881281863
+Precision - 0.8225872689938398
+F1-Score - 0.5053614229847357
+--------------------------------------------------
+Noise rate 0.2
+Base Split: 0.1
+MAE - 0.9497782312556802
+RMSE - 1.2063401290947424
+Coverage - 0.8935900712214309
+Recall - 0.2928719111949736
+Precision - 0.671113155473781
+F1-Score - 0.40778679933479606
+--------------------------------------------------
+Base Split: 0.2
+MAE - 0.8715388281859072
+RMSE - 1.0882616819120505
+Coverage - 0.9833127085911426
+Recall - 0.19181729966375555
+Precision - 0.7433968864789225
+F1-Score - 0.30494914524548405
+--------------------------------------------------
+Base Split: 0.3
+MAE - 0.8538595061985685
+RMSE - 1.0597742570493243
+Coverage - 0.9931429551006414
+Recall - 0.15256859913348464
+Precision - 0.7825396825396825
+F1-Score - 0.2553522099447514
+--------------------------------------------------
+Base Split: 0.4
+MAE - 0.8383726106964158
+RMSE - 1.041139156080146
+Coverage - 0.9952334127764537
+Recall - 0.14742044358727097
+Precision - 0.8072607260726072
+F1-Score - 0.2493119967383549
+--------------------------------------------------
+Base Split: 0.5
+MAE - 0.8323066674095871
+RMSE - 1.0314960452895159
+Coverage - 0.996540069198616
+Recall - 0.14259432941346223
+Precision - 0.8097091356001639
+F1-Score - 0.24248558459084774
+--------------------------------------------------
+Base Split: 0.6
+MAE - 0.8292266940481227
+RMSE - 1.0236788986194545
+Coverage - 0.9973750656233594
+Recall - 0.13177595381978893
+Precision - 0.8228667980850465
+F1-Score - 0.2271720116618076
+--------------------------------------------------
+Base Split: 0.7
+MAE - 0.8285456398669665
+RMSE - 1.0246142237732911
+Coverage - 0.9981333955534816
+Recall - 0.12928696281116267
+Precision - 0.8281853281853282
+F1-Score - 0.22365882904958032
+--------------------------------------------------
+Base Split: 0.8
+MAE - 0.8183689749103693
+RMSE - 1.012160401548541
+Coverage - 0.9984000799960002
+Recall - 0.1308334846558925
+Precision - 0.8373038930854154
+F1-Score - 0.22630545740086377
+--------------------------------------------------
+Base Split: 0.9
+MAE - 0.8031793385678521
+RMSE - 0.995797235063327
+Coverage - 0.9986001399860014
+Recall - 0.1397733405288721
+Precision - 0.8436482084690554
+F1-Score - 0.23981481481481481
+--------------------------------------------------
+Noise rate 0.4
+Base Split: 0.1
+MAE - 1.016624230742834
+RMSE - 1.2786293002498414
+Coverage - 0.8915456494927834
+Recall - 0.22538152610441767
+Precision - 0.6329442282749675
+F1-Score - 0.33240045607332713
+--------------------------------------------------
+Base Split: 0.2
+MAE - 0.9271817490075077
+RMSE - 1.140963865648278
+Coverage - 0.9842251971850352
+Recall - 0.06792845351966172
+Precision - 0.6322879393811829
+F1-Score - 0.12267733899620206
+--------------------------------------------------
+Base Split: 0.3
+MAE - 0.8973219015673564
+RMSE - 1.0979259078818269
+Coverage - 0.9931715261210554
+Recall - 0.044420424130121476
+Precision - 0.6718567536006228
+F1-Score - 0.08333132166566083
+--------------------------------------------------
+Base Split: 0.4
+MAE - 0.8916812010004814
+RMSE - 1.0865503902686175
+Coverage - 0.9945334244429259
+Recall - 0.039134881482372756
+Precision - 0.732545045045045
+F1-Score - 0.07430039977155911
+--------------------------------------------------
+Base Split: 0.5
+MAE - 0.887115846091626
+RMSE - 1.0804683501785486
+Coverage - 0.996640067198656
+Recall - 0.035359035794670736
+Precision - 0.7446483180428135
+F1-Score - 0.06751230332016359
+--------------------------------------------------
+Base Split: 0.6
+MAE - 0.8839356698323336
+RMSE - 1.0747513021444501
+Coverage - 0.997675058123547
+Recall - 0.031961215603537284
+Precision - 0.7478991596638656
+F1-Score - 0.06130268199233716
+--------------------------------------------------
+Base Split: 0.7
+MAE - 0.876258659487629
+RMSE - 1.0682651250539734
+Coverage - 0.997666744441852
+Recall - 0.03306383492216725
+Precision - 0.7600554785020804
+F1-Score - 0.063370916449841
+--------------------------------------------------
+Base Split: 0.8
+MAE - 0.8750744657750442
+RMSE - 1.0627254844682226
+Coverage - 0.9979501024948753
+Recall - 0.02431147393917646
+Precision - 0.7765042979942693
+F1-Score - 0.04714683368128045
+--------------------------------------------------
+Base Split: 0.9
+MAE - 0.8715254508464081
+RMSE - 1.059429539692665
+Coverage - 0.9979002099790021
+Recall - 0.026738934056007226
+Precision - 0.8457142857142858
+F1-Score - 0.05183887915936953
+--------------------------------------------------
+Noise rate 0.6
+Base Split: 0.1
+MAE - 1.0951735922241699
+RMSE - 1.3640602479649317
+Coverage - 0.8938678459128232
+Recall - 0.1654171511045183
+Precision - 0.5895549046224191
+F1-Score - 0.25834729114161825
+--------------------------------------------------
+Base Split: 0.2
+MAE - 0.9855192372751646
+RMSE - 1.2001720453282885
+Coverage - 0.9826502168722892
+Recall - 0.040954014170314544
+Precision - 0.5555555555555556
+F1-Score - 0.07628454344856572
+--------------------------------------------------
+Base Split: 0.3
+MAE - 0.9543172671829238
+RMSE - 1.1562003364418458
+Coverage - 0.9932429536720904
+Recall - 0.020429746949725283
+Precision - 0.5845018450184502
+F1-Score - 0.03947958725886048
+--------------------------------------------------
+Base Split: 0.4
+MAE - 0.9429930453641142
+RMSE - 1.1409641144399236
+Coverage - 0.9959667338877686
+Recall - 0.009860927946289413
+Precision - 0.5061538461538462
+F1-Score - 0.01934497559828306
+--------------------------------------------------
+Base Split: 0.5
+MAE - 0.9386992248469149
+RMSE - 1.1336788869848187
+Coverage - 0.996660066798664
+Recall - 0.007382210320619527
+Precision - 0.5340314136125655
+F1-Score - 0.014563106796116505
+--------------------------------------------------
+Base Split: 0.6
+MAE - 0.9414812914151269
+RMSE - 1.138358531697806
+Coverage - 0.9976000599985
+Recall - 0.007185141669302725
+Precision - 0.5063694267515924
+F1-Score - 0.014169228712738938
+--------------------------------------------------
+Base Split: 0.7
+MAE - 0.9405961431306775
+RMSE - 1.1359694317531548
+Coverage - 0.9981333955534816
+Recall - 0.005523203458005643
+Precision - 0.5054945054945055
+F1-Score - 0.010927014668329474
+--------------------------------------------------
+Base Split: 0.8
+MAE - 0.9392545960833557
+RMSE - 1.1311639342591513
+Coverage - 0.9982500874956253
+Recall - 0.004006410256410256
+Precision - 0.4838709677419355
+F1-Score - 0.007947019867549669
+--------------------------------------------------
+Base Split: 0.9
+MAE - 0.9297650092643783
+RMSE - 1.1221853088841243
+Coverage - 0.9983001699830018
+Recall - 0.003443276549474447
+Precision - 0.5757575757575758
+F1-Score - 0.006845613402990452
+--------------------------------------------------
+Noise rate 0.8
+Base Split: 0.1
+MAE - 1.1644354238218255
+RMSE - 1.4385158989158962
+Coverage - 0.8947345029499673
+Recall - 0.13723014011666365
+Precision - 0.5417853751187085
+F1-Score - 0.21899141116069287
+--------------------------------------------------
+Base Split: 0.2
+MAE - 1.0373528442832316
+RMSE - 1.2603267256168147
+Coverage - 0.9845001937475781
+Recall - 0.03159198378743526
+Precision - 0.46688851913477536
+F1-Score - 0.059179584519666775
+--------------------------------------------------
+Base Split: 0.3
+MAE - 1.0096886023511342
+RMSE - 1.2212511808331348
+Coverage - 0.9934715218354023
+Recall - 0.011058860007234769
+Precision - 0.4288577154308617
+F1-Score - 0.021561712846347607
+--------------------------------------------------
+Base Split: 0.4
+MAE - 1.008416703957001
+RMSE - 1.2155301265006162
+Coverage - 0.9958500691655139
+Recall - 0.007049647517624119
+Precision - 0.4400749063670412
+F1-Score - 0.013876996663615696
+--------------------------------------------------
+Base Split: 0.5
+MAE - 1.0007816526178375
+RMSE - 1.2049164425486618
+Coverage - 0.99690006199876
+Recall - 0.0041708614986336835
+Precision - 0.3729903536977492
+F1-Score - 0.008249475518259075
+--------------------------------------------------
+Base Split: 0.6
+MAE - 0.9980068275585313
+RMSE - 1.2019435121615698
+Coverage - 0.9976000599985
+Recall - 0.0026182737450343085
+Precision - 0.4
+F1-Score - 0.005202493609005696
+--------------------------------------------------
+Base Split: 0.7
+MAE - 0.9928512469949278
+RMSE - 1.1986905074688303
+Coverage - 0.9981000633312223
+Recall - 0.0016264080477079695
+Precision - 0.3
+F1-Score - 0.0032352764963153795
+--------------------------------------------------
+Base Split: 0.8
+MAE - 0.9859487928039582
+RMSE - 1.1908716986894707
+Coverage - 0.9983500824958752
+Recall - 0.001644736842105263
+Precision - 0.35294117647058826
+F1-Score - 0.0032742155525238743
+--------------------------------------------------
+Base Split: 0.9
+MAE - 0.9845057199639504
+RMSE - 1.1896661135479603
+Coverage - 0.9988001199880012
+Recall - 0.001987353206865402
+Precision - 0.4782608695652174
+F1-Score - 0.00395825836631882
+--------------------------------------------------
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+Computing the msd similarity matrix...
+Done computing similarity matrix.
